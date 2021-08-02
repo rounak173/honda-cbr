@@ -1,0 +1,42 @@
+/* google fonts  */
+/* poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+/* common utilities */
+* {
+    font-family: 'Poppins', sans-serif;
+}
+button {
+    background-color: #E76F51;
+    border:none;
+}
+
+/* header styles */
+header {
+    background-color: #264653;
+}
+/* main styles  */
+.best-bike {
+    color: #E76F51;
+}
+.grayscale-img {
+    filter:grayscale(100%);
+}
+.clients-say {
+    color: #E76F51;
+}
+.sayings {
+    color: #6C6C6C;
+}
+.occupation {
+    color: #252B42;
+}
+.questions {
+    color:#E76F51;
+}
+.accord-qs {
+    color:#383838;
+}
+.accord-des {
+    color: #7E848C;
+}
